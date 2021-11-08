@@ -360,8 +360,7 @@ async def on_member_join(member):
 
 
 
+access_token = os.environ["BOT_TOKEN"]
 
 
-
-
-client.run('NzU3OTgxMjY3MDUxNDEzNTE1.X2oTEA.9zBrGfHdp3arjM2Ta_wtobFm__k')
+client.run('access_token')
